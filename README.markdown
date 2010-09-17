@@ -24,7 +24,7 @@ Make the Netherlands complete:
 	- Gelderland
 	- Groningen
 	- Limburg
-	- _Noord Brabant_
+	- Noord Brabant **Done**
 	- Noord Holland
 	- Overijssel
 	- Utrecht
