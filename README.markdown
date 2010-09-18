@@ -18,17 +18,17 @@ Todo
 ====
 Make the Netherlands complete:
 
-	- Drenthe
-	- Flevoland
-	- Friesland
-	- Gelderland
-	- Groningen
-	- Limburg
-	- Noord Brabant **Done**
-	- Noord Holland
-	- Overijssel
-	- Utrecht
-	- Zeeland
-	- Zuid Holland
+- Drenthe
+- Flevoland
+- Friesland
+- Gelderland
+- Groningen
+- Limburg
+- Noord Brabant **Done**
+- Noord Holland
+- Overijssel
+- Utrecht
+- Zeeland
+- Zuid Holland
 
 
